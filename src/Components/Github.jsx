@@ -250,7 +250,7 @@ export default function Github() {
         </div>
         {/* Grid */}
         {!loading && !error && (
-          <div className="rounded-lg border border-dashed border-gray-600 p-3 bg-transparent">
+          <div className="rounded-lg border border-dashed border-gray-600 p-2 bg-transparent">
             {/* month labels */}
             <div className="flex items-center mb-2"> {/* left padding for weekday column */}
               <div className="" /> {/* spacer where weekday column sits */}
