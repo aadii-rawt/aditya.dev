@@ -9,3 +9,13 @@
     @apply bg-[#353334]
     rounded-full
 }
+
+
+.element {
+  overflow-x: scroll;      /* enable scrolling */
+  scrollbar-width: none;   /* Firefox */
+}
+
+.element::-webkit-scrollbar {
+  display: none;           /* Chrome, Edge, Safari */
+}
