@@ -20,7 +20,7 @@ function Skills() {
         {
             icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6bebC_d4eWwJ-x9ntqDuT94TvOgumSBVWHg&s",
             title: "Nodejs",
-            subtitle: "JS Runtime Environment",
+            subtitle: "JS Runtime",
         },
         {
             icon: "https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png",
@@ -55,7 +55,7 @@ function Skills() {
 
         {
             icon: "https://cdn.iconscout.com/icon/free/png-256/free-postman-3628992-3030217.png?f=webp",
-            title: "postman",
+            title: "Postman",
             subtitle: "API Testing",
         },
         {

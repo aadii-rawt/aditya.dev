@@ -10,6 +10,12 @@ function Project() {
             url: "https://fuma.dotdazzle.in/"
         },
         {
+            title: "Remail",
+            languages: "MERN",
+            image: './remail.png',
+            url: "https://remail.dotdazzle.in/"
+        },
+        {
             title: "Github Wrapped",
             languages: "MERN",
             image: './githubwrapped.png',
